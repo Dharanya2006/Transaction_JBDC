@@ -49,3 +49,5 @@ SQL operations
 Transaction management
 
 Real-world DBMS application
+
+<img width="632" height="184" alt="image" src="https://github.com/user-attachments/assets/43bb7822-3927-4f48-8adf-291f3b45c990" />
